@@ -167,7 +167,7 @@ row span --> used to make new coloum in one row.
                =>   <form>  </form>
 
                form tag contain action attribute for the action after submit input tag. 
-               <form action="file location which u want to refirect after subbmission">
+               <form action="file location which u want to redirect after subbmission">
                </form>
 
  23. input tag -->  input tag is the child of form tag.
