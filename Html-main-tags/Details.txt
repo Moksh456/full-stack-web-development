@@ -27,6 +27,8 @@ tere are two type in html---->
 table tag --> table tag is used to make table of many data. table tag containg many tag like => <tr>, <td>, <th>
 
 --> client requseted and serveer response to the client.
+
+--> there are many type of tag are exist in html but we discuss on the which tags is used to our daily life.
           
 ________________________________________________________________________________                                                                                                                                          
                                 
