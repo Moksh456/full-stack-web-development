@@ -120,7 +120,7 @@ List of tags which is used in html:--->
 
 
 18. footer tag --> footer tag is used to give footer on webpage.
-            <footer> </footer>    
+            <footer> </footer>      
 
 
 19. main tag --> main tag is not usable tag it is only for the manage the code like modern style. main tag is lie between header and footer tag.
