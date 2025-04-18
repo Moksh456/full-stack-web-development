@@ -26,9 +26,14 @@ tere are two type in html---->
                                   eg: span tag, anchor tag, etc
 table tag --> table tag is used to make table of many data. table tag containg many tag like => <tr>, <td>, <th>
 
---> client requseted and serveer response to the client.
+--> client requseted and server response to the client.
 
 --> there are many type of tag are exist in html but we discuss on the which tags is used to our daily life.
+
+there are 3 ways to applied css in html file :
+ 1. inline - with the help of style attribute.
+ 2. Internal - style Tag (children of head tag)
+ 2. external - link tag (children of head tag)
           
 ________________________________________________________________________________                                                                                                                                          
                                 
