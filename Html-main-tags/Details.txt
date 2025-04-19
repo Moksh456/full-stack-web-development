@@ -221,14 +221,7 @@ input tag is self closing tag.
                   7. minlength: This attribute is used to define the minimum number of input text characters inside required inside 
                   <textarea> element. 
                   8. name: This attribute is used to define the name of the <textarea> element.
-
-                  9. placeholder: This attribute is used to display predefined textual content inside the <textarea> element until the user modifies the content.
-
-                  10. readonly: This attribute is used to specify that <textarea> element is read-only.
-
-                  11.required: This attribute is used to specify that the <textarea> element should be mandatorily filled out before submitting the Form.
-                  
-                  12. rows: This attribute is used to define the dimension by specifying the numbers of rows of text box
+ 
                   
 
  24.         
