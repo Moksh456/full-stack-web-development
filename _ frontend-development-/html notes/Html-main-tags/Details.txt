@@ -244,7 +244,10 @@ input tag is self closing tag.
 
                   12.rows: This attribute is used to define the dimension by specifying the numbers of rows of text box
 
- 
+24. fieldset tag --> field set tag is lie on the form tag it's main work is to accessbility           
+                    <fieldset>
+                       <legend > login !</legend>
+                    </fieldset>
                   
 
 
