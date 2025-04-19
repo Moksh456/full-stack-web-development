@@ -248,7 +248,16 @@ input tag is self closing tag.
                     <fieldset>
                        <legend > login !</legend>
                     </fieldset>
-                  
+                    
+
+ 25.  i frame --> i frame tag is used to insert any html file in another html page. 
+                    <iframe> src=""</iframe>     
+                    
+                    attribute of iframe tag :-
+                                        1. width
+                                        2. height
+
+
 
 
 
