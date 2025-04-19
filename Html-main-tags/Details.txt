@@ -34,6 +34,18 @@ there are 3 ways to applied css in html file :
  1. inline - with the help of style attribute.
  2. Internal - style Tag (children of head tag)
  2. external - link tag (children of head tag)
+
+--> base elements = 
+                Base elements of HTML forms are generally the tags / elements that is majorly used for creating an interactive HTML web forms for the user.
+                Index of Base elements:
+1. Form Tag
+2. Input Tag
+3. Text Input
+4. Label
+5. Radio Button
+6. Checkbox
+7. <input name="name">
+8. Submit button
           
 ________________________________________________________________________________                                                                                                                                          
                                 
@@ -202,7 +214,8 @@ input tag is self closing tag.
                   7. range type attribute
                   8. number type attributes. number type attribute is used with limit the type of limit
                   min="0" max="50" step="10"
-                  10. file type attribute
+              10. file type attribute
+                  11. textarea input tag
 
 
                   attributes of form tag -->
@@ -220,11 +233,19 @@ input tag is self closing tag.
 
                   7. minlength: This attribute is used to define the minimum number of input text characters inside required inside 
                   <textarea> element. 
+
                   8. name: This attribute is used to define the name of the <textarea> element.
+
+                  9. placeholder: This attribute is used to display predefined textual content inside the <textarea> element until the user modifies the content.
+
+                  10. readonly: This attribute is used to specify that <textarea> element is read-only.
+
+                  11.required: This attribute is used to specify that the <textarea> element should be mandatorily filled out before submitting the Form.
+
+                  12.rows: This attribute is used to define the dimension by specifying the numbers of rows of text box
+
  
                   
-
- 24.         
 
 
 
